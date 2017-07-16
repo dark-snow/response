@@ -1,0 +1,29 @@
+{
+  "name": "dark-snow-response",
+  "version": "1.0.0",
+  "description": "Small Module To standardize Json responses from servers",
+  "main": "index.js",
+  "author": "Khaled Romdhane <heiyukidev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mocha": "^3.3.0",
+    "request": "^2.81.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dark-snow/response.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dark-snow/response/issues"
+  },
+  "homepage": "https://github.com/dark-snow/response#readme"
+}
